@@ -1,0 +1,8 @@
+=== RAPPORT CYBER ===
+
+Total alertes : 0
+IPs détectées : 0
+
+TOP IP SUSPECTES
+
+Types d'attaques
